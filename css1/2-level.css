@@ -1,0 +1,51 @@
+#MilkandHoney{
+  font-family: Verdana;
+  font-style: oblique;
+  font-size: 50px;
+
+}
+#pretty{
+  background-color: #e8a2ec;
+
+}
+
+.bubble{
+  position: fixed;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  z-index: 0;
+}
+
+#bubble1{
+background-color: #8adee9;
+left: 50%;
+top: 10%;
+}
+
+#bubble2{
+  background-color: #f5c5f3;
+  left: 70%;
+  top: 60%;
+  right: 20%;
+}
+
+.bubble3{
+  position: fixed;
+  background-color: #f0da7b;
+  left: 40%;
+  top: 80%;
+  width: 200px;
+  height:200px;
+  border-radius: 50%;
+}
+
+#extraordinary{
+  font-style: italic;
+  font-size: 30px;
+}
+
+#rupikaur{
+  border: solid black 1px;
+  padding: 20px; 
+}

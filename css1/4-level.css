@@ -1,0 +1,43 @@
+.box1{
+  background-color: #e84326;
+  border: groove black 2px;
+  width: 20%;
+  height: 10%;
+}
+
+.box2{
+  background-color: #e0e344;
+  width: 20%;
+  height: 5%;
+}
+
+.box3{
+  background-color: #59da6a;
+  border: solid black 2px;
+  width: 70%;
+  height: 5%;
+}
+
+.box4{
+  background-color: #6acbe6;
+  width: 75%;
+  height: 5%;
+}
+
+.container{
+border: solid black 5px;
+width: 5%;
+height: 5%;
+}
+
+#header1{
+  font-size: 50px;
+  font-style: oblique;
+  font-family: Helvetica;
+}
+
+#header2{
+  font-size: 30px;
+  font-style: italic;
+  font-family: Helvetica;
+}

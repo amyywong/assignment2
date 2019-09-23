@@ -1,0 +1,44 @@
+body{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.container{
+  margin: 2px;
+  border: solid black 3px;
+  padding: 20px;
+  background-color: #dbbdfc;
+}
+
+#rupikaur{
+  font-size: 50px;
+  font-style: oblique;
+  font-family: cursive;
+}
+.block1{
+  positon: fixed;
+  background-color: #7d08b4;
+  width: 200px;
+  height: 100px;
+  right: 80%;
+  top:80%;
+
+}
+
+.block2{
+  position: absolute;
+  background-color: #8c41c7;
+  width: 100px;
+  height: 50px;
+  left: 80%;
+  top: 80%;
+}
+
+.block3{
+  positon: absolute;
+  background-color: #c49cec;
+  width: 50px;
+  height: 25px;
+  left: 80%;
+  top: 60%;
+}

@@ -1,0 +1,26 @@
+body{
+  margin: 20px;
+  border: solid black 1px;
+  padding: 20px;
+}
+
+
+
+.container{
+  background-color: #e9e34e;
+  width: 50%;
+  height: 50%;
+}
+.box{
+  margin: 20px;
+  padding: 20px;
+  border: solid black 1px;
+}
+#milkandhoney{
+  font-size: 100px;
+  font-family: Helvetica;
+}
+
+#pretty{
+  font-style: italic;
+}
